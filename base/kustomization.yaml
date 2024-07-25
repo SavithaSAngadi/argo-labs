@@ -7,4 +7,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: savithasangadi/vote
-  newTag: 1cd5bb7
+  newTag: b9dd6f4
